@@ -1,0 +1,52 @@
+{
+  "examId": "ap-us-history",
+  "brandName": "AP U.S. History Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/ap-us-history/assets/logo.svg?v=1",
+  "accessPassword": "APUSHREADY",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "mcq",
+      "label": "AP U.S. History Multiple-Choice Section",
+      "timeMin": 55,
+      "timeLabel": "Recommended practice time: 55 minutes",
+      "examQuestions": 55,
+      "type": "mcq",
+      "examFiles": []
+    },
+    {
+      "id": "saq",
+      "label": "AP U.S. History Short-Answer Section",
+      "timeMin": 40,
+      "timeLabel": "Recommended practice time: 40 minutes",
+      "examQuestions": 3,
+      "type": "written",
+      "examFiles": []
+    },
+    {
+      "id": "dbq",
+      "label": "AP U.S. History Document-Based Question",
+      "timeMin": 60,
+      "timeLabel": "Recommended practice time: 60 minutes",
+      "examQuestions": 1,
+      "type": "written",
+      "examFiles": []
+    },
+    {
+      "id": "leq",
+      "label": "AP U.S. History Long Essay Question",
+      "timeMin": 40,
+      "timeLabel": "Recommended practice time: 40 minutes",
+      "examQuestions": 1,
+      "type": "written",
+      "examFiles": []
+    }
+  ],
+  "printables": []
+}
