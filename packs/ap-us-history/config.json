@@ -2,7 +2,7 @@
   "examId": "ap-us-history",
   "brandName": "AP U.S. History Exam Simulator",
   "theme": "dark",
-  "logoPath": "../packs/ap-us-history/assets/logo.svg?v=1",
+  "logoPath": "../packs/ap-us-history/assets/logo.png?v=2",
   "accessPassword": "APUSHREADY",
   "practiceChunkSize": 10,
   "nav": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "saq",
-      "label": "AP U.S. History Short-Answer Section",
+      "label": "AP U.S. History Short-Answer Questions",
       "timeMin": 40,
       "timeLabel": "Recommended practice time: 40 minutes",
       "examQuestions": 3,
