@@ -179,6 +179,42 @@ def parse_question_block(qid: str, kind: str, exam_no: str, block_lines):
 
         matched = False
 
+        # If we are already inside a multiline written field, do not let document-level
+        # labels such as "Author/Origin:" or "Source Type:" interrupt the Prompt.
+        # Only true item-level transition labels should close the current multiline field.
+        if current_field in {"prompt", "scoringGuide", "modelGuidance"} and not (kind == "MCQ" and CHOICE_RE.match(stripped)):
+            transition_handled = False
+
+            # Main written-field transitions.
+            for label, field in multiline_fields.items():
+                if stripped == label:
+                    current_field = field
+                    current_choice = None
+                    matched = True
+                    transition_handled = True
+                    break
+                if stripped.startswith(label):
+                    item[field] = stripped.split(":", 1)[1].strip()
+                    current_field = field
+                    current_choice = None
+                    matched = True
+                    transition_handled = True
+                    break
+
+            if matched:
+                continue
+
+            # Expected Points is allowed to close Model Guidance / Scoring Guide.
+            if stripped.startswith("Expected Points:"):
+                item["expectedPoints"] = stripped.split(":", 1)[1].strip()
+                current_field = None
+                current_choice = None
+                continue
+
+            # Everything else remains part of the current multiline field.
+            append_field(item, current_field, stripped)
+            continue
+
         for label, field in simple_fields.items():
             if stripped.startswith(label):
                 item[field] = stripped.split(":", 1)[1].strip()
@@ -413,7 +449,7 @@ def update_printables():
     for pdf in sorted(PDF_OUT_DIR.glob("*.pdf")):
         stem = pdf.stem.lower()
 
-        exam_match = re.search(r"exam[_ -]?(\\d+)", stem)
+        exam_match = re.search(r"exam[_ -]?(\d+)", stem)
         exam_label = f" {int(exam_match.group(1)):02d}" if exam_match else ""
 
         if "mcq" in stem:

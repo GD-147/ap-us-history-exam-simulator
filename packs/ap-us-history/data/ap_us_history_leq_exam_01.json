@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 01",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ1-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 5 — Period 5: 1844–1877",
+      "period": "Cross-Period / Thematic",
+      "theme": "NAT — American and National Identity",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the era of the American Revolution through Reconstruction, Americans repeatedly debated who belonged within the political nation and what rights citizenship should include. These debates involved issues such as republican ideology, property and voting qualifications, slavery, women’s rights, immigration, Native sovereignty, emancipation, and the constitutional changes of Reconstruction.\nEvaluate the extent to which ideas about citizenship in the United States changed from 1763 to 1877.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the extent of change in ideas about citizenship from 1763 to 1877. The thesis must make an argument about change, continuity, or both.\nContextualization — 1 point: Earns the point by describing broader context relevant to citizenship debates, such as British imperial crisis, republican ideology, state constitutions, slavery in the early republic, expansion, sectional conflict, the Civil War, or Reconstruction.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as the Declaration of Independence, republican motherhood, state voting rules, gradual emancipation laws, the Constitution’s compromises over slavery, the Missouri Compromise, abolitionism, Seneca Falls, Dred Scott, emancipation, the Fourteenth Amendment, the Fifteenth Amendment, Black political participation during Reconstruction, or women’s suffrage activism. Earns 2 points for using at least two pieces of evidence to support an argument about continuity and change over time.\nHistorical Reasoning — 1 point: Earns the point by explaining continuity and change over time, such as showing how citizenship expanded from property-holding white men toward birthright citizenship and Black male suffrage while many women, Native peoples, Chinese immigrants, and others remained excluded or contested.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as explaining that revolutionary ideals created language later used by excluded groups, that legal change did not always produce equal lived citizenship, that Reconstruction marked a major constitutional transformation but also produced backlash, or that citizenship changed differently across race, gender, class, and region.",
+      "modelGuidance": "A strong LEQ should not simply list events from the Revolution to Reconstruction. It should develop a clear continuity-and-change argument about the meaning of citizenship. Strong evidence might include revolutionary republicanism, voting qualifications, abolitionism, women’s rights activism, Dred Scott, emancipation, and the Reconstruction amendments. The best responses will show that citizenship expanded significantly in constitutional terms by 1877 while remaining contested and uneven in practice.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 5 — Period 5: 1844–1877"
+    }
+  ]
+}

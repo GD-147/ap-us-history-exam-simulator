@@ -18,7 +18,9 @@
       "timeLabel": "Recommended practice time: 55 minutes",
       "examQuestions": 55,
       "type": "mcq",
-      "examFiles": []
+      "examFiles": [
+        "ap_us_history_mcq_exam_01.json"
+      ]
     },
     {
       "id": "saq",
@@ -27,7 +29,9 @@
       "timeLabel": "Recommended practice time: 40 minutes",
       "examQuestions": 3,
       "type": "written",
-      "examFiles": []
+      "examFiles": [
+        "ap_us_history_saq_exam_01.json"
+      ]
     },
     {
       "id": "dbq",
@@ -36,7 +40,9 @@
       "timeLabel": "Recommended practice time: 60 minutes",
       "examQuestions": 1,
       "type": "written",
-      "examFiles": []
+      "examFiles": [
+        "ap_us_history_dbq_exam_01.json"
+      ]
     },
     {
       "id": "leq",
@@ -45,8 +51,19 @@
       "timeLabel": "Recommended practice time: 40 minutes",
       "examQuestions": 1,
       "type": "written",
-      "examFiles": []
+      "examFiles": [
+        "ap_us_history_leq_exam_01.json"
+      ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "AP U.S. History Free-Response Practice Exam 01",
+      "file": "ap_us_history_frq_exam_01.pdf"
+    },
+    {
+      "label": "AP U.S. History MCQ Practice Exam 01",
+      "file": "ap_us_history_mcq_exam_01.pdf"
+    }
+  ]
 }
