@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 02",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ2-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 7 — Period 7: 1890–1945",
+      "period": "Cross-Period / Thematic",
+      "theme": "WOR — America in the World",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the late nineteenth century through the Cold War era, the United States became increasingly involved in global affairs. This involvement included overseas expansion, world wars, international institutions, economic influence, military alliances, ideological conflict, and debates at home over the proper role of the United States in the world.\nEvaluate the extent to which United States involvement in global affairs changed from 1890 to 1980.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the extent of change in U.S. involvement in global affairs from 1890 to 1980. The thesis must make an argument about change, continuity, or both.\nContextualization — 1 point: Earns the point by describing broader context relevant to U.S. global involvement, such as industrial growth, the closing of the frontier, imperial competition, World War I, World War II, decolonization, the Cold War, nuclear weapons, or global economic integration.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as the Spanish-American War, annexation of the Philippines, Open Door policy, World War I, the League of Nations debate, Good Neighbor policy, World War II, the United Nations, NATO, the Marshall Plan, Korean War, Vietnam War, détente, or debates over interventionism. Earns 2 points for using at least two pieces of evidence to support an argument about continuity and change over time.\nHistorical Reasoning — 1 point: Earns the point by explaining continuity and change over time, such as showing how the United States moved from regional expansion and selective overseas empire toward a sustained role as a global military, economic, and ideological power, while continuing older debates over intervention, trade, national interest, and democracy.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as distinguishing between economic, military, and ideological involvement; explaining that isolationist or anti-interventionist ideas persisted even as global commitments expanded; comparing different types of intervention; or showing how domestic debates shaped foreign policy choices.",
+      "modelGuidance": "A strong LEQ should develop a clear continuity-and-change argument rather than listing foreign policy events. It might argue that U.S. involvement changed dramatically as the nation moved from late-nineteenth-century expansion and commercial diplomacy to Cold War alliance systems and permanent global military commitments. At the same time, students should recognize continuities such as economic motives, claims of spreading democracy, strategic interests, and recurring domestic debate over intervention.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 7 — Period 7: 1890–1945"
+    }
+  ]
+}

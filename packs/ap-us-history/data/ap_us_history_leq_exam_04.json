@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 04",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ4-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 6 — Period 6: 1865–1898",
+      "period": "Cross-Period / Thematic",
+      "theme": "WXT — Work, Exchange, and Technology",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the late nineteenth century through World War II, industrial growth, corporate consolidation, labor conflict, economic depression, reform movements, and wartime mobilization repeatedly raised questions about the proper role of the federal government in the economy. Americans debated whether government should protect property and markets, regulate corporations, support workers and farmers, stabilize prices, or directly manage production in times of crisis.\nEvaluate the extent to which the role of the federal government in the United States economy changed from 1865 to 1945.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the extent of change in the federal government’s role in the economy from 1865 to 1945. The thesis must make an argument about continuity, change, or both.\nContextualization — 1 point: Earns the point by describing broader context relevant to federal economic policy, such as post-Civil War industrialization, railroad expansion, laissez-faire ideas, labor conflict, Populism, Progressivism, World War I mobilization, the Great Depression, New Deal reforms, or World War II production.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as land grants to railroads, protective tariffs, the Homestead Act, Interstate Commerce Act, Sherman Antitrust Act, Pullman Strike, Progressive regulation, Federal Reserve Act, wartime economic boards, New Deal agencies, Social Security Act, Wagner Act, Fair Labor Standards Act, or War Production Board. Earns 2 points for using at least two pieces of evidence to support an argument about continuity and change in federal economic power.\nHistorical Reasoning — 1 point: Earns the point by explaining continuity and change over time, such as showing how the federal government moved from promoting markets and infrastructure while often defending property rights toward a larger regulatory, welfare, and planning role by the New Deal and World War II, while still protecting capitalism and private enterprise.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as explaining that federal intervention existed before the New Deal but changed in scale and purpose, distinguishing regulation from ownership, comparing responses to labor and corporations, or showing that crisis conditions expanded federal power more rapidly than ordinary political debate.",
+      "modelGuidance": "A strong LEQ should not claim that the federal government had no economic role before the Great Depression. It should recognize earlier federal support for railroads, tariffs, land policy, and corporate development while arguing that the New Deal and World War II greatly expanded regulation, welfare policy, labor protections, and production planning. Strong responses will explain both continuity in support for capitalism and change in the scale and expectations of federal economic action.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 6 — Period 6: 1865–1898"
+    }
+  ]
+}

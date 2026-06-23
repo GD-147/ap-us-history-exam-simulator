@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 03",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ3-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 2 — Period 2: 1607–1754",
+      "period": "Cross-Period / Thematic",
+      "theme": "ARC — American and Regional Culture",
+      "skill": "",
+      "historicalReasoning": "Causation",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the colonial period through the antebellum era, religious ideas and institutions shaped American society in many ways. Religious belief influenced community life, education, reform movements, gender ideals, debates over slavery, Native missions, and ideas about moral authority and social change.\nEvaluate the extent to which religious ideas and movements caused social or cultural change in British North America and the United States from 1607 to 1860.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the extent to which religious ideas and movements caused social or cultural change from 1607 to 1860. The thesis must make an argument about causation.\nContextualization — 1 point: Earns the point by describing broader context relevant to religion and society, such as European colonization, Puritan settlement, religious pluralism, the First Great Awakening, the American Revolution, the Second Great Awakening, market change, slavery, or antebellum reform.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as Puritan communities, Maryland toleration debates, Quakers, the First Great Awakening, Jonathan Edwards or George Whitefield, evangelical churches, the Second Great Awakening, temperance, abolitionism, women’s reform activity, missionary work, utopian communities, or proslavery religious arguments. Earns 2 points for using at least two pieces of evidence to support an argument about how religion caused social or cultural change.\nHistorical Reasoning — 1 point: Earns the point by explaining causation, such as showing how religious revivalism encouraged challenges to older authority, inspired reform movements, shaped gender roles, promoted moral discipline, supported abolition, justified slavery, or influenced community organization.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as explaining that religion both challenged and reinforced social hierarchies, comparing the First and Second Great Awakenings, distinguishing regional differences, or showing how religious ideas interacted with economic change, democratic politics, race, gender, and reform.",
+      "modelGuidance": "A strong LEQ should make a clear causal argument rather than simply listing religious groups. It might argue that religious movements caused major social and cultural change by encouraging revivalism, reform, moral activism, and challenges to established authority. Strong responses should also recognize limits and contradictions, including religious defenses of slavery, gender constraints within reform, and differences among regions and denominations.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 2 — Period 2: 1607–1754"
+    }
+  ]
+}

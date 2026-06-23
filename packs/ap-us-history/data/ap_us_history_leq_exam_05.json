@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 05",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ5-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 7 — Period 7: 1890–1945",
+      "period": "Cross-Period / Thematic",
+      "theme": "ARC — American and Regional Culture",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the late nineteenth century through World War II, Americans experienced major changes in entertainment, communication, advertising, sports, music, literature, film, radio, and consumer culture. These developments shaped national identity while also reflecting regional, racial, ethnic, class, and generational differences.\nEvaluate the extent to which mass culture changed American society from 1865 to 1945.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the extent to which mass culture changed American society from 1865 to 1945. The thesis must make an argument about continuity, change, or both.\nContextualization — 1 point: Earns the point by describing broader context relevant to mass culture, such as industrialization, urbanization, immigration, rising literacy, consumer capitalism, technological innovation, the growth of national markets, the Great Migration, the 1920s consumer economy, or World War II mobilization.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as yellow journalism, vaudeville, spectator sports, mail-order catalogs, advertising, phonographs, motion pictures, radio, jazz, the Harlem Renaissance, Tin Pan Alley, Hollywood, flappers, consumer credit, chain stores, national magazines, or wartime propaganda. Earns 2 points for using at least two pieces of evidence to support an argument about how mass culture changed society.\nHistorical Reasoning — 1 point: Earns the point by explaining continuity and change over time, such as showing how mass culture created more shared national experiences through new media and consumer goods while older regional, racial, ethnic, religious, and class divisions continued to shape how Americans produced and received culture.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as explaining that mass culture could both unify and divide Americans, comparing producers and consumers of culture, showing how African American cultural production influenced national culture while facing racism, or distinguishing commercial entertainment from political communication and reform.",
+      "modelGuidance": "A strong LEQ should not simply list inventions or entertainment forms. It should explain how mass culture changed American society by creating shared symbols, celebrities, consumer habits, and national media networks. Strong responses should also recognize limits: access and representation differed by race, class, gender, region, and generation, and mass culture often produced conflict as well as unity.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 7 — Period 7: 1890–1945"
+    }
+  ]
+}
