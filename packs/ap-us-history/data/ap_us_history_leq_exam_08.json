@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 08",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ8-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 6 — Period 6: 1865–1898",
+      "period": "Cross-Period / Thematic",
+      "theme": "WXT — Work, Exchange, and Technology",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the end of the Civil War through the early twentieth century, industrial capitalism changed how many Americans worked. Wage labor, large corporations, mechanized production, national markets, new managerial systems, immigration, migration, and union organizing reshaped relations between workers and employers. At the same time, older inequalities of race, gender, skill, and class continued to influence access to jobs and power in the workplace.\nEvaluate the extent to which industrial capitalism changed the relationship between workers and employers in the United States from 1865 to 1920.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the extent to which industrial capitalism changed worker-employer relations from 1865 to 1920. The thesis must make an argument about continuity, change, or both.\nContextualization — 1 point: Earns the point by describing broader context relevant to industrial labor, such as post-Civil War railroad expansion, corporate consolidation, immigration, urbanization, mechanization, national markets, economic depressions, or the growth of wage labor.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as Knights of Labor, American Federation of Labor, Haymarket, Homestead Strike, Pullman Strike, Great Railroad Strike of 1877, company towns, scientific management, sweatshops, child labor, women’s industrial labor, Chinese railroad labor, closed shops, injunctions, or the Clayton Antitrust Act. Earns 2 points for using at least two pieces of evidence to support an argument about change and continuity in worker-employer relations.\nHistorical Reasoning — 1 point: Earns the point by explaining continuity and change over time, such as showing how large-scale industrial capitalism shifted power toward corporations and managers while workers developed unions, strikes, and political strategies to resist or negotiate workplace authority.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as distinguishing skilled from unskilled labor, comparing craft unionism and industrial unionism, explaining differences by race, gender, ethnicity, and region, or showing that industrial capitalism created new forms of worker dependence while also creating new forms of collective action.",
+      "modelGuidance": "A strong LEQ should explain how industrial capitalism altered workplace power, not simply list strikes. It might argue that large corporations, mechanization, and national labor markets increased employer control over wages, hours, and conditions, while unions and strikes represented new worker responses. Strong responses should also recognize continuities and limits: workers remained divided by skill, race, gender, ethnicity, and legal status, and government often sided with employers during major labor conflicts.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 6 — Period 6: 1865–1898"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 09",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ9-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 4 — Period 4: 1800–1848",
+      "period": "Cross-Period / Thematic",
+      "theme": "WXT — Work, Exchange, and Technology",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the early republic through the late nineteenth century, transportation and communication networks changed the ways Americans exchanged goods, information, people, and political ideas. Roads, canals, steamboats, railroads, the postal system, telegraph lines, and later transcontinental connections linked some regions more closely while also intensifying conflicts over land, labor, markets, and regional power.\nEvaluate the extent to which transportation and communication networks changed economic and political integration in the United States from 1783 to 1898.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the extent to which transportation and communication networks changed economic and political integration from 1783 to 1898. The thesis must make an argument about continuity, change, or both.\nContextualization — 1 point: Earns the point by describing broader context relevant to transportation and communication, such as post-Revolutionary western settlement, federal land policy, market growth, regional specialization, industrialization, expansion of newspapers, slavery’s expansion, sectionalism, railroad development, or national markets.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as the National Road, Erie Canal, steamboats, canals, turnpikes, postal networks, railroads, telegraph, transportation of cotton and manufactured goods, Pacific Railway Act, transcontinental railroad, railroad time zones, or railroad corporations. Earns 2 points for using at least two pieces of evidence to support an argument about economic and political integration.\nHistorical Reasoning — 1 point: Earns the point by explaining continuity and change over time, such as showing how networks increasingly integrated regional markets, sped communication, supported migration and state-building, and strengthened national connections, while also reinforcing sectional specialization, land conflict, corporate power, and uneven regional development.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as explaining that transportation and communication integrated the nation economically while sometimes deepening political conflict; comparing canals and railroads; distinguishing regional effects; or showing how networks connected markets and people while also expanding slavery, displacing Native nations, and increasing corporate influence.",
+      "modelGuidance": "A strong LEQ should explain how networks changed integration rather than simply list inventions. It might argue that canals, steamboats, railroads, postal routes, and telegraphs linked regional economies and sped political communication, but did not produce simple national unity. Strong responses should recognize uneven effects: transportation helped integrate markets, encourage migration, and expand federal and corporate power, while also deepening sectional tensions, land conflicts, and regional inequalities.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 4 — Period 4: 1800–1848"
+    }
+  ]
+}

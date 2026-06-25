@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 10",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ10-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 4 — Period 4: 1800–1848",
+      "period": "Cross-Period / Thematic",
+      "theme": "MIG — Migration and Settlement",
+      "skill": "",
+      "historicalReasoning": "Causation",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the Louisiana Purchase through the Mexican-American War, territorial expansion reshaped the United States. Americans debated land, migration, slavery, trade, diplomacy, war, federal authority, and national destiny. Students may choose to focus on developments such as the Louisiana Purchase, migration into the Old Southwest, Texas annexation, Oregon settlement, the Mexican-American War, or the Mexican Cession.\nEvaluate the most significant causes of United States territorial expansion from 1803 to 1853.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the most significant causes of United States territorial expansion from 1803 to 1853. The thesis must make a causal argument rather than simply list examples of expansion.\nContextualization — 1 point: Earns the point by describing broader context relevant to expansion, such as post-Revolutionary western settlement, population growth, land hunger, plantation agriculture, commercial development, Jeffersonian ideas of an agrarian republic, rivalry with European powers, or sectional debates over slavery.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as the Louisiana Purchase, Lewis and Clark expedition, War of 1812 aftermath, Adams-Onís Treaty, cotton expansion, Texas independence, Texas annexation, Oregon Trail migration, “Fifty-Four Forty or Fight,” Manifest Destiny ideology, Mexican-American War, Treaty of Guadalupe Hidalgo, or debates over slavery in new territories. Earns 2 points for using at least two pieces of evidence to support an argument about causes of territorial expansion.\nHistorical Reasoning — 1 point: Earns the point by explaining causation, such as showing how economic opportunity, population growth, plantation agriculture, ideology, security concerns, diplomacy, migration, and sectional politics contributed to expansion.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as distinguishing between diplomatic purchase, settler migration, war, and annexation; explaining how expansion reflected both opportunity and coercion; showing how expansion united some Americans around national destiny while intensifying conflict over slavery; or recognizing the roles of foreign powers, Indigenous nations, Mexicans, settlers, enslaved people, and federal officials.",
+      "modelGuidance": "A strong LEQ should explain why expansion occurred rather than simply narrate where the United States expanded. It might argue that territorial expansion resulted from a combination of land hunger, commercial ambition, plantation agriculture, population growth, ideology, diplomacy, and war. Strong responses should distinguish different mechanisms of expansion, such as purchase, treaty, migration, annexation, and military conquest, and should explain how expansion intensified political conflict over slavery and national identity.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 4 — Period 4: 1800–1848"
+    }
+  ]
+}

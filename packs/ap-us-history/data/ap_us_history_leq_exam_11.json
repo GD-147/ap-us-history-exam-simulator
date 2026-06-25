@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 11",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ11-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 4 — Period 4: 1800–1848",
+      "period": "Cross-Period / Thematic",
+      "theme": "NAT — American and National Identity",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "The War of 1812 and its aftermath shaped debates over national identity, economic development, federal policy, regional interests, and the United States’ place in North America. Students may choose to focus on developments such as wartime mobilization, the Hartford Convention, the collapse of the Federalist Party, the “Era of Good Feelings,” the American System, tariffs, internal improvements, the Second Bank of the United States, or growing regional disagreements.\nEvaluate the extent to which the War of 1812 and its aftermath changed American national identity and federal policy from 1800 to 1848.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the extent to which the War of 1812 and its aftermath changed American national identity and federal policy from 1800 to 1848. The thesis must make an argument about continuity, change, or both.\nContextualization — 1 point: Earns the point by describing broader context relevant to the War of 1812 and early nineteenth-century nationalism, such as conflicts with Britain and France, impressment, frontier conflict, Jeffersonian Republicanism, commercial restrictions, regional divisions, early industrial growth, or post-Revolutionary uncertainty about national unity.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as the War of 1812, Battle of New Orleans, Hartford Convention, collapse of the Federalist Party, Era of Good Feelings, American System, Henry Clay, protective tariffs, internal improvements, Second Bank of the United States, McCulloch v. Maryland, Monroe Doctrine, or regional debates over federal spending. Earns 2 points for using at least two pieces of evidence to support an argument about change and continuity.\nHistorical Reasoning — 1 point: Earns the point by explaining continuity and change over time, such as showing how the war encouraged nationalism, economic self-sufficiency, and federal support for development while older conflicts over regional interest, constitutional interpretation, and federal power continued.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as explaining that nationalism grew after the war but remained fragile; distinguishing cultural nationalism from economic policy; showing how policies meant to unite the nation produced sectional disagreement; or explaining that Republicans adopted some policies once associated with Federalists while continuing to debate federal power.",
+      "modelGuidance": "A strong LEQ should explain how the War of 1812 and its aftermath influenced national identity and federal policy rather than simply narrating the war. Strong responses might argue that the war encouraged a stronger sense of nationalism and support for economic development through tariffs, banking, and internal improvements, but that sectional tensions and constitutional disagreements persisted. Effective evidence could include the Hartford Convention, the Battle of New Orleans, the American System, the Second Bank, McCulloch v. Maryland, the Era of Good Feelings, and debates over internal improvements.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 4 — Period 4: 1800–1848"
+    }
+  ]
+}

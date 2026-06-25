@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 07",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ7-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 4 — Period 4: 1800–1848",
+      "period": "Cross-Period / Thematic",
+      "theme": "SOC — Social Structures",
+      "skill": "",
+      "historicalReasoning": "Causation",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the early nineteenth century through the Civil War, antislavery activism developed through the actions of enslaved people, free Black communities, white abolitionists, women reformers, religious and secular reform networks, political parties, print culture, and conflicts over fugitive slaves and western territories. These movements differed in goals and tactics, but together they helped make slavery a central issue in national life.\nEvaluate the most significant causes of the growth of antislavery activism in the United States from 1800 to 1865.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the most significant causes of the growth of antislavery activism from 1800 to 1865. The thesis must make a causal argument rather than simply describe antislavery beliefs.\nContextualization — 1 point: Earns the point by describing broader context relevant to antislavery activism, such as the expansion of slavery, the Haitian Revolution’s influence, the Second Great Awakening, reform networks, free Black communities, sectional conflict, westward expansion, or the political crisis of the 1850s.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as Gabriel’s Rebellion, Denmark Vesey’s alleged conspiracy, Nat Turner’s rebellion, David Walker’s Appeal, William Lloyd Garrison, the American Anti-Slavery Society, Frederick Douglass, Sojourner Truth, Harriet Tubman, the Underground Railroad, personal liberty laws, the Fugitive Slave Act of 1850, Uncle Tom’s Cabin, the Liberty Party, Free Soil Party, Republican Party, John Brown, or the Emancipation Proclamation. Earns 2 points for using at least two pieces of evidence to support an argument about causes of antislavery activism.\nHistorical Reasoning — 1 point: Earns the point by explaining causation, such as showing how enslaved resistance, free Black activism, moral reform, abolitionist print culture, women’s organizing, political conflict over slavery’s expansion, or fugitive slave controversies contributed to the growth of antislavery activism.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as distinguishing between immediatist abolition, gradualism, colonization, Free Soil politics, and wartime emancipation; explaining tensions between Black and white abolitionists; showing how enslaved people’s actions shaped abolitionist politics; or recognizing that antislavery activism grew through both moral reform and political conflict.",
+      "modelGuidance": "A strong LEQ should explain why antislavery activism grew, not simply list abolitionists. It might argue that activism expanded because enslaved resistance and free Black organizing challenged slavery directly, while reform movements, print culture, and conflicts over fugitive slaves and western territories drew more northerners into antislavery politics. Strong responses should also distinguish different forms of antislavery activism, from moral abolitionism to political Free Soil arguments and wartime emancipation.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 4 — Period 4: 1800–1848"
+    }
+  ]
+}

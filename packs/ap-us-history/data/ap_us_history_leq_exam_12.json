@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 12",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ12-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 4 — Period 4: 1800–1848",
+      "period": "Cross-Period / Thematic",
+      "theme": "PCE — Politics and Power",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the early republic through the New Deal era, the Supreme Court shaped debates over federal power, state authority, property rights, economic regulation, civil rights, and constitutional interpretation. Students may choose to focus on cases and controversies involving judicial review, commerce, banking, slavery, Reconstruction amendments, segregation, labor regulation, or New Deal legislation.\nEvaluate the extent to which the Supreme Court changed the relationship among the federal government, the states, and individual rights from 1803 to 1937.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the extent to which the Supreme Court changed the relationship among the federal government, the states, and individual rights from 1803 to 1937. The thesis must make an argument about continuity, change, or both.\nContextualization — 1 point: Earns the point by describing broader context relevant to constitutional development, such as debates over federalism, the early republic, market expansion, slavery and sectional conflict, Reconstruction, industrial capitalism, Progressive reform, or the Great Depression and New Deal.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as Marbury v. Madison, McCulloch v. Maryland, Gibbons v. Ogden, Dred Scott v. Sandford, Slaughter-House Cases, Civil Rights Cases, Plessy v. Ferguson, Lochner v. New York, Muller v. Oregon, Hammer v. Dagenhart, Schechter Poultry Corp. v. United States, or West Coast Hotel v. Parrish. Earns 2 points for using at least two pieces of evidence to support an argument about constitutional change and continuity.\nHistorical Reasoning — 1 point: Earns the point by explaining continuity and change over time, such as showing how the Court expanded judicial review and sometimes strengthened federal authority while also limiting civil rights protections, protecting property and contract rights, or later permitting broader economic regulation during the New Deal era.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as explaining that the Court did not consistently favor either federal or state power; distinguishing economic rights from civil rights; showing how constitutional interpretation changed in response to political and economic crises; or comparing the Court’s role in the early republic, Reconstruction, the Gilded Age, Progressive Era, and New Deal.",
+      "modelGuidance": "A strong LEQ should make a constitutional argument over time rather than simply list court cases. It might argue that the Supreme Court strengthened its own authority and sometimes expanded federal power, but also limited civil rights protections after Reconstruction and protected property rights against regulation before shifting during the New Deal era. Strong responses should connect specific cases to broader developments such as federalism, slavery, industrialization, segregation, labor regulation, and economic crisis.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 4 — Period 4: 1800–1848"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "AP U.S. History LEQ Practice Exam 06",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APUSH-LEQ6-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 8 — Period 8: 1945–1980",
+      "period": "Cross-Period / Thematic",
+      "theme": "PCE — Politics and Power",
+      "skill": "",
+      "historicalReasoning": "Causation",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From the end of World War II through the early twenty-first century, conservative political movements gained influence in the United States. These movements drew support from many sources, including anti-communism, reactions against liberal reform, religious activism, tax revolts, business interests, debates over federal power, concerns about social change, and regional shifts in political power.\nEvaluate the most significant causes of the rise of modern conservatism in the United States from 1945 to 2000.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point for a historically defensible thesis that evaluates the most significant causes of the rise of modern conservatism from 1945 to 2000. The thesis must make a causal argument rather than simply list conservative ideas.\nContextualization — 1 point: Earns the point by describing broader context relevant to postwar politics, such as the Cold War, New Deal liberalism, the Great Society, civil rights activism, social movements of the 1960s and 1970s, economic instability, religious change, suburban and Sun Belt growth, or distrust of government after Vietnam and Watergate.\nEvidence — 2 points: Earns 1 point for identifying at least two specific pieces of relevant evidence, such as anti-communism, National Review, Barry Goldwater’s 1964 campaign, backlash against Great Society programs, opposition to busing or affirmative action, the New Right, the Religious Right, Roe v. Wade backlash, tax revolts such as Proposition 13, Sun Belt political growth, stagflation, Reagan’s election, deregulation, or debates over welfare and federal spending. Earns 2 points for using at least two pieces of evidence to support an argument about causes of conservative growth.\nHistorical Reasoning — 1 point: Earns the point by explaining causation, such as showing how anti-communism, economic concerns, religious mobilization, racial and cultural backlash, business organizing, regional realignment, or distrust of federal power contributed to conservative political success.\nComplexity — 1 point: Earns the point by developing a nuanced argument, such as distinguishing economic, social, religious, and foreign-policy conservatism; explaining that conservatism grew through both grassroots activism and elite organization; recognizing regional differences; or showing how conservative movements responded to liberal reform while also building their own positive vision of markets, family, religion, and limited government.",
+      "modelGuidance": "A strong LEQ should explain causes, not just describe conservative beliefs or list conservative politicians. It might argue that modern conservatism rose because anti-communism, backlash against liberal reform, religious activism, tax resistance, economic instability, and Sun Belt growth converged between the 1950s and 1980s. Strong responses should also recognize that conservatism was not a single movement; economic conservatives, religious conservatives, anti-communists, business groups, and grassroots activists often had overlapping but distinct priorities.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 8 — Period 8: 1945–1980"
+    }
+  ]
+}
